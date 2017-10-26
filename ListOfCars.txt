@@ -1,0 +1,9 @@
+This is the list of your cars:
+
+1| Dacia 1300 with 1200000 miles on the clock. Last serviced: 1989/02/30
+2| BMW i3 with 6151 miles on the clock. Last serviced: 2015/05/01
+3| Fičo Turbo Beštija with 6666 miles on the clock. Last serviced: 1966/06/06
+4| Honda Ftec with 3.14 miles on the clock. Last serviced: It doesn't need servicing yo
+5| Lada Niva 1600 with 452234 miles on the clock. Last serviced: 1989/08/07
+
+List created with Vehicle Manager 3000. (v0.1)
